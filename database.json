@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123", 
+      "role": "admin",
+      "subscriptionEnd": "2099-12-31"
+    },
+    {
+      "username": "user1",
+      "password": "user123",
+      "role": "user",
+      "subscriptionEnd": "2026-01-31"
+    }
+  ],
+  "version": "1.0.0"
+}
